@@ -1,4 +1,3 @@
-# kaggle
 # Kaggle Data Science Projects #
 
 Occasionally, Github doesn't properly render Jupyter Notebooks. Provided are backup links to view the Jupyter Notebooks as well as links to each notebooks respective Kaggle competition page.
